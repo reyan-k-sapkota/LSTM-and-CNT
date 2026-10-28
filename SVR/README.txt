@@ -1,11 +1,11 @@
 From SVR8020.ipynb
 
-                       Train     Test
-R2                    0.9040   0.7590
-MSE                  10.3464  34.9814
-RMSE                  3.2166   5.9145
-MAE                   1.5472   3.5513
-MAPE (%)              3.8429  11.3840
-Explained Variance    0.9047   0.7661
-Pearson Correlation   0.9516   0.8753
-Relative RMSE (%)     7.0470  13.3801
+                            Train     Test
+R2                         0.9059   0.7583
+MSE                       10.1404  35.0798
+RMSE                       3.1844   5.9228
+MAE                        1.5673   3.5317
+MAPE (%)                   3.8992  11.3706
+Explained Variance Score   0.9066   0.7655
+Pearson Correlation        0.9525   0.8749
+Relative RMSE (%)          6.9765  13.3989
