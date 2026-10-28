@@ -1,4 +1,5 @@
 For ANN with 80:20 split.
+from ANN_8020.ipynb
 
                          Train     Test
 R2 Score                  0.9819   0.9055
